@@ -25,7 +25,7 @@
 
 | Project | Stack | Highlights |
 | :--- | :--- | :--- |
-| **[Alim Ball](https://github.com/oguzgucuk/football-quiz)** ([Live](https://alimball.vercel.app)) | `Next.js` `React 19` `PartyKit` `Prisma` `PostgreSQL` | Real-time multiplayer football trivia & auction platform with WebSocket room sync, ELO rating engine, and client-side fuzzy search across 10,000+ players. |
+| **[Alim Ball](https://github.com/oguzgucuk/alimball)** ([Live](https://alimball.vercel.app)) | `Next.js` `React 19` `PartyKit` `Prisma` `PostgreSQL` | Real-time multiplayer football trivia & auction platform with WebSocket room sync, ELO rating engine, and client-side fuzzy search across 10,000+ players. |
 | **[FormFit](https://github.com/oguzgucuk/FormFit)** | `React Native` `Expo` `MediaPipe` `Skia` `Reanimated 4` | On-device AI fitness posture analyzer computing real-time joint angle trigonometry with **60 FPS** React Native Skia skeleton overlays. |
 | **[Snippet Vault](https://github.com/oguzgucuk/snippet-vault)** ([Live](https://snippet-vault-dusky-eight.vercel.app)) | `Next.js 15` `Supabase` `pgvector` `Gemini Embeddings` | AI developer snippet manager featuring semantic vector search (`text-embedding-004`), PostgreSQL RLS isolation, and React 19 Server Actions. |
 
